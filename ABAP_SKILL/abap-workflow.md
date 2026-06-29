@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-workflow
-description: EBD 시스템 ABAP 7단계 개발 워크플로우 - 요건분석부터 최종보고까지 단계별 상세 절차, PLAN.md 생성 위치(C:\ABAP_SKILL\{PROGNAME}\) 및 진행 상태 관리 규칙 포함
+description: "EBD 시스템 ABAP 7단계 개발 워크플로우 - 요건분석부터 최종보고까지 단계별 상세 절차, PLAN.md 생성 위치(C:\ABAP_SKILL\{PROGNAME}\) 및 진행 상태 관리 규칙 포함"
 ---
 
 # EBD 시스템 ABAP 개발 워크플로우 가이드

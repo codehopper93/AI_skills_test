@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-dev-plan-template
-description: EBD 시스템 ABAP 개발계획서(PLAN.md) 템플릿 - 기본정보/요건분석/INCLUDE구조/Phase1~5 체크리스트/ATC결과/교차검증표/최종확인 포함. 저장위치: C:\ABAP_SKILL\{PROGNAME}\PLAN.md
+description: "EBD 시스템 ABAP 개발계획서(PLAN.md) 템플릿 - 기본정보/요건분석/INCLUDE구조/Phase1~5 체크리스트/ATC결과/교차검증표/최종확인 포함. 저장위치: C:\ABAP_SKILL\{PROGNAME}\PLAN.md"
 ---
 
 # EBD 시스템 ABAP 개발계획서 템플릿

@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-security-checklist
-description: EBD 시스템 ABAP 보안 체크리스트 15항목 - 권한검사/입력검증/SQL보안/데이터보호/로깅 카테고리별 Pass/Fail 판정, Critical Fail=즉시 배포차단/High Fail 2건이상=재검토 기준
+description: "EBD 시스템 ABAP 보안 체크리스트 15항목 - 권한검사/입력검증/SQL보안/데이터보호/로깅 카테고리별 Pass/Fail 판정, Critical Fail=즉시 배포차단/High Fail 2건이상=재검토 기준"
 ---
 
 # EBD 시스템 보안 체크리스트

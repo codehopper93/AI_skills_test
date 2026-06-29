@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-security-check
-description: EBD 시스템 ABAP 보안 점검 프롬프트 - 권한검사/입력값검증/Dynamic SQL/Hard-coded 계정정보/COMMIT WORK 등 15개 보안 항목 자동 점검, Critical Fail 즉시 수정 코드 제시
+description: "EBD 시스템 ABAP 보안 점검 프롬프트 - 권한검사/입력값검증/Dynamic SQL/Hard-coded 계정정보/COMMIT WORK 등 15개 보안 항목 자동 점검, Critical Fail 즉시 수정 코드 제시"
 ---
 
 # EBD 시스템 보안 점검 프롬프트

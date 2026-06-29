@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-new-report
-description: EBD 시스템 ALV Report 신규 개발 프롬프트 - Selection Screen 설계, INCLUDE 구조(TOP/SCR/F01/F02), 공통 유틸리티(check_auth/check_bukrs/f4_bukrs), ALV 이벤트 FORM 자동 생성 포함
+description: "EBD 시스템 ALV Report 신규 개발 프롬프트 - Selection Screen 설계, INCLUDE 구조(TOP/SCR/F01/F02), 공통 유틸리티(check_auth/check_bukrs/f4_bukrs), ALV 이벤트 FORM 자동 생성 포함"
 ---
 
 # EBD 시스템 Report 신규 개발 프롬프트

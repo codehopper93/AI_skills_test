@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-full-development
-description: EBD 시스템 ABAP 통합 개발 프롬프트 - 7단계 전체 프로세스(요건분석PLAN.md사용자승인코드개발ATC검증교차검증최종보고)를 한 번에 실행하는 완전 자동화 프롬프트
+description: "EBD 시스템 ABAP 통합 개발 프롬프트 - 7단계 전체 프로세스(요건분석PLAN.md사용자승인코드개발ATC검증교차검증최종보고)를 한 번에 실행하는 완전 자동화 프롬프트"
 ---
 
 # EBD 시스템 ABAP 통합 개발 프롬프트

@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-development
-description: EBD 시스템 SAP ABAP 개발 종합 스킬 - 7단계 표준 개발 프로세스, 코딩 표준, 공통 유틸리티, ATC 검증을 포함한 완전한 ABAP 개발 가이드. 연결 ID: EBD
+description: "EBD 시스템 SAP ABAP 개발 종합 스킬 - 7단계 표준 개발 프로세스, 코딩 표준, 공통 유틸리티, ATC 검증을 포함한 완전한 ABAP 개발 가이드. 연결 ID: EBD"
 ---
 
 # EBD 시스템 ABAP 개발 종합 스킬

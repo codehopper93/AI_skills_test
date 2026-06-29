@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-refactoring
-description: EBD 시스템 ABAP 리팩토링 프롬프트 - Clean ABAP 적용, SELECT* 개선/SELECT-ENDSELECT 제거/이중LOOP 최적화/변수명 표준화/CONSTANTS 분리, 변경이력 자동 추가, ATC 재검증
+description: "EBD 시스템 ABAP 리팩토링 프롬프트 - Clean ABAP 적용, SELECT* 개선/SELECT-ENDSELECT 제거/이중LOOP 최적화/변수명 표준화/CONSTANTS 분리, 변경이력 자동 추가, ATC 재검증"
 ---
 
 # EBD 시스템 리팩토링 프롬프트

@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-performance-checklist
-description: EBD 시스템 ABAP 성능 체크리스트 20항목 - DB접근(SELECT필드/WHERE조건/FOR-ALL-ENTRIES/SELECT-ENDSELECT/JOIN)/인터널테이블(SORT+BINARY-SEARCH/HASHED-TABLE/이중LOOP)/LOOP최적화/메모리 카테고리별 Pass/Fail 판정
+description: "EBD 시스템 ABAP 성능 체크리스트 20항목 - DB접근(SELECT필드/WHERE조건/FOR-ALL-ENTRIES/SELECT-ENDSELECT/JOIN)/인터널테이블(SORT+BINARY-SEARCH/HASHED-TABLE/이중LOOP)/LOOP최적화/메모리 카테고리별 Pass/Fail 판정"
 ---
 
 # EBD 시스템 성능 체크리스트

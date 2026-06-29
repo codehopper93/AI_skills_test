@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-final-review-checklist
-description: EBD 시스템 ABAP 배포 전 최종 검토 체크리스트 - 섹션A 필수10항목(1개 Fail=배포차단)/섹션B 품질10항목/섹션C 배포준비6항목, 종합 판정 기준 및 최종 보고 형식 포함
+description: "EBD 시스템 ABAP 배포 전 최종 검토 체크리스트 - 섹션A 필수10항목(1개 Fail=배포차단)/섹션B 품질10항목/섹션C 배포준비6항목, 종합 판정 기준 및 최종 보고 형식 포함"
 ---
 
 # EBD 시스템 최종 검토 체크리스트

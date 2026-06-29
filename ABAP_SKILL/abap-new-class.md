@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-new-class
-description: EBD 시스템 ABAP Class/Interface 신규 개발 프롬프트 - CLASS DEFINITION/IMPLEMENTATION, ABAP Doc 주석, TRY-CATCH 예외처리, 단위 테스트 stub 자동 생성 포함
+description: "EBD 시스템 ABAP Class/Interface 신규 개발 프롬프트 - CLASS DEFINITION/IMPLEMENTATION, ABAP Doc 주석, TRY-CATCH 예외처리, 단위 테스트 stub 자동 생성 포함"
 ---
 
 # EBD 시스템 Class 신규 개발 프롬프트

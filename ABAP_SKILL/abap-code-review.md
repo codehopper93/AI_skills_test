@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-code-review
-description: EBD 시스템 ABAP 코드 리뷰 프롬프트 - 품질(30항목)/보안(15항목)/성능(20항목) 체크리스트 기반 Pass/Fail 판정, 우선순위별 수정 코드 제시, 최종 점수 산출
+description: "EBD 시스템 ABAP 코드 리뷰 프롬프트 - 품질(30항목)/보안(15항목)/성능(20항목) 체크리스트 기반 Pass/Fail 판정, 우선순위별 수정 코드 제시, 최종 점수 산출"
 ---
 
 # EBD 시스템 코드 리뷰 프롬프트

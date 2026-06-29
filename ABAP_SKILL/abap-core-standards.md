@@ -1,6 +1,6 @@
 ---
 name: ebd-abap-core-standards
-description: EBD 시스템 ABAP 핵심 코딩 표준 - 헤더 주석, INCLUDE 구조, 네이밍 규칙, 공통 유틸리티, 에러 처리, 성능/보안 규칙 및 금지 패턴 전체 포함
+description: "EBD 시스템 ABAP 핵심 코딩 표준 - 헤더 주석, INCLUDE 구조, 네이밍 규칙, 공통 유틸리티, 에러 처리, 성능/보안 규칙 및 금지 패턴 전체 포함"
 ---
 
 # EBD 시스템 ABAP 핵심 코딩 표준
